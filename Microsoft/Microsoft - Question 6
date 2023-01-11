@@ -1,6 +1,5 @@
 //Shortest Unsorted Continuous Subarray
 
-
 class Solution {
 public:
 
