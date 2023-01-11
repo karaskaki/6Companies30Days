@@ -1,6 +1,5 @@
 // Bulls And Cows
 
-
 class Solution {
 public:
     string getHint(string secret, string guess) {
