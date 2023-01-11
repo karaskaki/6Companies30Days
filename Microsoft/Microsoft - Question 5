@@ -1,5 +1,6 @@
 //Number of Substrings Containing All Three Characters
 
+
 class Solution {
 public:
     int numberOfSubstrings(string s) {
